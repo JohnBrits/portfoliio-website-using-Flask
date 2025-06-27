@@ -26,8 +26,8 @@ A personal portfolio website built using **Flask** to showcase projects, resume,
 
 ---
 
- 🧾 Example Routes
-Route	Description
+## 🧾 Example Routes
+## Route	Description
 /	Home page
 /about	About/Bio section
 /projects	List of projects
